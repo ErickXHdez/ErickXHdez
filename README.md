@@ -2,7 +2,12 @@
 I am an automatic engineer looking for a career in which I can improve and develop my skills and thus cooperate in the project that belongs to achieve success.
 
 ### Skills and Experience : 
-·👨‍💻 Microcontrollers (Atmel / ESP32) / Hardware Design / Python / C / C ++ / Labview
+👨‍💻 Microcontrollers (Atmel / ESP32)
+💻Hardware Design
+🐍Python 
+![image](https://user-images.githubusercontent.com/76678582/117047216-9dcbdd80-acdf-11eb-89c6-2e38c35924b3.png)C/C ++
+
+💻Labview
 
 - 🌱 I’m currently learning FreeRTOS 
 - 👯 I’m looking to collaborate on Control engineer 
