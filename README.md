@@ -1,7 +1,7 @@
 ### Hi there 👋, I´m Erick Cruz
 I am an automatic engineer looking for a career in which I can improve and develop my skills and thus cooperate in the project that belongs to achieve success.
 
-Skills and Experience : 
+### Skills and Experience : 
 Microcontrollers (Atmel / ESP32) / Hardware Design / Python / C / C ++ / Labview
 
 - 🌱 I’m currently learning FreeRTOS 
