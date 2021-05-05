@@ -6,7 +6,7 @@ I’m an automatic engineer looking for a career in which I can improve and deve
 👯 I’m looking to collaborate on Control engineer
 
 ### Skills and Experience 👨‍💻: 
-- Microcontrollers (Atmel / ESP32)
+- Microcontrollers (Atmel / Espressif)
 - Hardware Design
 - Python 
 - C/C ++
